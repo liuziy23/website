@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Hello! My name is Ziyi Liu, and I'm a Student based in Toronto. With a passion for Statistics, I've dedicated the past four years to exploring and excelling in this area. My journey began at University of Toronto, where I studied Economics and Statistics. The link below is my personal resume, Please take a look at that and hope you like this website!
 
 ```{r}
 1 + 1
